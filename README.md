@@ -57,7 +57,7 @@
 
     <div class="video-container">
         <h1>how we scorce our leather</h1>
-        <p>This page features a in depth video about how we scorce our leather.</p>
+        <p>This page features an in depth video about how we scorce our leather.</p>
         
         <div class="video-wrapper">
       
